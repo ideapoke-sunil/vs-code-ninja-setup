@@ -172,7 +172,7 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
 
 - <kbd>Option</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd> / <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd> → Format document
 - <kbd>Cmd</kbd> + <kbd>K M</kbd> / <kbd>Ctrl</kbd> + <kbd>K M</kbd> → Change language mode
-- 
+
 
 ## 🛠️ Workspace Settings Tips
 
@@ -238,24 +238,23 @@ These settings live inside: `.vscode/settings.json`
 
 **🌍 Global (applies everywhere)**
 
-  1. Open Command Palette:
+1. Open Command Palette:
    
+    <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Mac)  or <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Windows)
 
-        <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Mac)  or <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Windows)
+2. Search: Preferences: Open Workspace Settings (JSON)
 
-  2. Search: Preferences: Open Workspace Settings (JSON)
-
-  3. Paste the config above and save.
+3. Paste the config above and save.
 
 **📦 Project-Only (recommended)**
 
-  1. In your project root, create a folder: `.vscode/`
+1. In your project root, create a folder: `.vscode/`
 
-  2. Inside it, create or edit `settings.json`
+2. Inside it, create or edit `settings.json`
 
-  3. Paste the same JSON block
+3. Paste the same JSON block
 
-  4. Save — VS Code will auto-apply for that workspace only.
+4. Save — VS Code will auto-apply for that workspace only.
 
 ### ⚡ Auto Setup Script (Mac/Linux/Windows)
 
