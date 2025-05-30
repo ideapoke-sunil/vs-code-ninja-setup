@@ -172,9 +172,7 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
 - `Cmd + K M` / `Ctrl + K M` → Change language mode
 
 
-## 💡 Pro Tips & Ideas
-
-### 📁 Workspace Settings Tips
+## 📁 Workspace Settings Tips
 
 VS Code settings are stored in a JSON file that define how your editor behaves. You can save them:
 
@@ -183,7 +181,19 @@ VS Code settings are stored in a JSON file that define how your editor behaves. 
 
 These settings live inside: `.vscode/settings.json`
 
+### ⚙ Sample VS Code Settings
 
+```json
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.autoSave": "onFocusChange",
+  "terminal.integrated.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "material-icon-theme"
+}
+```
 
 ## 🔖 Useful Resources
 
