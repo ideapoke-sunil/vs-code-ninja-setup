@@ -29,7 +29,7 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
 - [Fira Code](https://github.com/tonsky/FiraCode) (with ligatures enabled)
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
-## 🧰 Recommended extensions
+## 🧰 Recommended Extensions
 
 <table>
   <tr>
@@ -219,7 +219,7 @@ These settings live inside: `.vscode/settings.json`
   </tr>
   <tr>
     <td>editor.fontLigatures</td>
-    <td>Enables coding ligatures (e.g. `=>,` `===` become elegant symbols).</td>
+    <td>Enables coding ligatures (e.g. =>, === become elegant symbols).</td>
   </tr>
   <tr>
     <td>workbench.colorTheme</td>
@@ -230,6 +230,32 @@ These settings live inside: `.vscode/settings.json`
     <td>Uses Material Icon Theme for your file explorer.</td>
   </tr>
 </table>
+
+
+### ✅ How To Apply Settings
+
+**🌍 Global (applies everywhere)**
+
+1. Open Command Palette:
+
+```
+`Cmd + Shift + P` (Mac) or `Ctrl + Shift + P` (Windows)
+
+```
+
+Search:
+Preferences: Open Settings (JSON)
+
+Paste the config above and save.
+
+📁 Project-Only (recommended)
+In your project root, create a folder: .vscode/
+
+Inside it, create or edit settings.json
+
+Paste the same JSON block
+
+Save — VS Code will auto-apply for that workspace only.
 
 ## 🔖 Useful Resources
 
