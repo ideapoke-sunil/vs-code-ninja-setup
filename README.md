@@ -145,3 +145,28 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
   <td>Powerful Markdown preview with diagrams and math</td>
 </tr>
 </table>
+
+## ⌨️ Shortcuts Cheat Sheet (Mac / Windows)
+
+### Navigation
+
+- `Cmd + P` / `Ctrl + P` → Quick file search
+- `Cmd + Shift + O` / `Ctrl + Shift + O` → Go to symbol in file
+- `Cmd + Shift + E` / `Ctrl + Shift + E` → Explorer
+- `Cmd + B` / `Ctrl + B` → Toggle sidebar
+
+### Editing
+
+- `Option + Shift + ↓/↑` / `Alt + Shift + ↓/↑` → Copy line down/up
+- `Cmd + D` / `Ctrl + D` → Multi-cursor select next match
+- `Cmd + Shift + L` / `Ctrl + Shift + L` → Select all occurrences
+
+### Terminal
+
+- `Ctrl + \`` → Toggle terminal
+- `Cmd + Shift + C` / `Ctrl + Shift + C` → Open terminal in editor
+
+### Formatting
+
+- `Option + Shift + F` / `Alt + Shift + F` → Format document
+- `Cmd + K M` / `Ctrl + K M` → Change language mode
