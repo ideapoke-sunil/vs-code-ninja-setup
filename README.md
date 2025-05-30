@@ -231,7 +231,7 @@ These settings live inside: `.vscode/settings.json`
   </tr>
 </table>
 
-### ✅ How To Apply Settings
+### 🌀 How To Apply Settings
 
 **🌍 Global (applies everywhere)**
 
