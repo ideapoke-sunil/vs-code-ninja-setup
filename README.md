@@ -241,6 +241,8 @@ These settings live inside: `.vscode/settings.json`
 Cmd + Shift + P (Mac) or Ctrl + Shift + P (Windows)
 
 ```
+<kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Mac)  
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Windows)
 
 2. Search: Preferences: Open Workspace Settings (JSON)
 
@@ -295,7 +297,6 @@ chmod +x setup.sh
 
 **🪟 Windows — `setup.bat`**
 
-
 ```bash
 @echo off
 
@@ -313,8 +314,8 @@ copy settings.json "%APPDATA%\Code\User\settings.json"
 echo ✅ VS Code Ninja setup complete!
 pause
 ```
-Double-click `setup.bat` to run.
 
+Double-click `setup.bat` to run.
 
 ## ☁️ Sync Settings Across Devices (Pro Tip)
 
@@ -328,12 +329,13 @@ VS Code comes with a built-in feature called **Settings Sync**, which allows you
 
 ### 🔐 How It Works
 
-Settings Sync uses your **GitHub or Microsoft account** to securely back up your entire VS Code setup to the cloud. Perfect for syncing work/home machines or migrating to a new device.
+Settings Sync uses your **GitHub or Microsoft account** to securely back up your entire VS Code
+setup to the cloud. Perfect for syncing work/home machines or migrating to a new device.
 
 ### 🏁 How To Enable It
 
 1. Open Command Palette:
-   
+
 ```
 Cmd + Shift + P (Mac) or Ctrl + Shift + P (Windows)
 ```
@@ -344,15 +346,16 @@ Cmd + Shift + P (Mac) or Ctrl + Shift + P (Windows)
 
 4. Choose what you want to sync:
 
-    - Settings
-    - Extensions
-    - Keybindings
-    - Snippets
-    - UI State
+   - Settings
+   - Extensions
+   - Keybindings
+   - Snippets
+   - UI State
 
 That’s it — your VS Code config is now backed up and portable across devices!
 
-When you install VS Code on a new device, just sign in and **Settings Sync** will automatically apply your full setup — no need to manually reinstall themes or extensions.
+When you install VS Code on a new device, just sign in and **Settings Sync** will automatically
+apply your full setup — no need to manually reinstall themes or extensions.
 
 ## 🔖 Useful Resources
 
