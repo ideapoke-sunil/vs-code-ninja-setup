@@ -165,13 +165,14 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
 ### 💻 Terminal
 
 - <kbd>Ctrl</kbd> + <kbd>`</kbd> → Toggle terminal
-- `` Ctrl + `  `` → Toggle terminal
-- `Cmd + Shift + C` / `Ctrl + Shift + C` → Open terminal in editor
+- <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd> / <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd> → Open terminal in editor
+
 
 ### 📐 Formatting
 
-- `Option + Shift + F` / `Alt + Shift + F` → Format document
-- `Cmd + K M` / `Ctrl + K M` → Change language mode
+- <kbd>Option</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd> / <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd> → Format document
+- <kbd>Cmd</kbd> + <kbd>K M</kbd> / <kbd>Ctrl</kbd> + <kbd>K M</kbd> → Change language mode
+- 
 
 ## 🛠️ Workspace Settings Tips
 
