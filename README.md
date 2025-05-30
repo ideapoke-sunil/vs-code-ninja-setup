@@ -132,4 +132,19 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
   <td><a href="https://marketplace.visualstudio.com/items?itemName=csstools.postcss">PostCSS Language Support</a></td>
   <td>Support for PostCSS syntax and features</td>
 </tr>
+<tr>
+  <td><a href="https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one">Markdown All in One</a></td>
+  <td>Essential tools for Markdown editing</td>
+  <td><a href="https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one">Install</a></td>
+</tr>
+<tr>
+  <td><a href="https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja">Console Ninja</a></td>
+  <td>Enhances console logs with formatting and filtering</td>
+  <td><a href="https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja">Install</a></td>
+</tr>
+<tr>
+  <td><a href="https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced">Markdown Preview Enhanced</a></td>
+  <td>Powerful Markdown preview with diagrams and math</td>
+  <td><a href="https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced">Install</a></td>
+</tr>
 </table>
