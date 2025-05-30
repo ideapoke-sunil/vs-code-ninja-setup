@@ -336,11 +336,8 @@ setup to the cloud. Perfect for syncing work/home machines or migrating to a new
 
 1. Open Command Palette:
 
-```
-<kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Mac)  
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Windows)
-```
-
+    <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Mac)  or
+    <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Windows)
 
 
 2. Search: Turn On Settings Sync
