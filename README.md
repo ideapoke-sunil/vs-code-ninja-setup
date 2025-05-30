@@ -1,6 +1,7 @@
 # 🥷 VS Code Ninja Setup
 
-Welcome to my personal VS Code reference guide. This is where I keep my favorite themes, icon packs, keyboard shortcuts, and productivity ideas. Tailored for web development and daily ninja work! ⚔️
+Welcome to my personal VS Code reference guide. This is where I keep my favorite themes, icon packs,
+keyboard shortcuts, and productivity ideas. Tailored for web development and daily ninja work! ⚔️
 
 ## 🎨 Theme & Appearance
 
@@ -55,42 +56,42 @@ Welcome to my personal VS Code reference guide. This is where I keep my favorite
     <td><a href="https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize">Colorize</a></td>
     <td>Highlights CSS colors in code</td>
   </tr>
-<tr>
-  <td><a href="https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules">CSS Modules</a></td>
-  <td>Autocomplete for CSS module class names</td>
-</tr>
-<tr>
-  <td><a href="https://marketplace.visualstudio.com/items?itemName=phoenisx.cssvar">CSS Var Complete</a></td>
-  <td>Autocomplete for CSS custom properties</td>
-</tr>
-<tr>
-  <td><a href="https://marketplace.visualstudio.com/items?itemName=vunguyentuan.vscode-css-variables">CSS Variable Autocomplete</a></td>
-  <td>Suggests CSS variables as you type</td>
-</tr>
-<tr>
-  <td><a href="https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets">ES7+ React Snippets</a></td>
-  <td>Snippets for React, Redux, and more</td>
-</tr>
-<tr>
-  <td><a href="https://marketplace.visualstudio.com/items?itemName=mguellsegarra.highlight-on-copy">Highlight on Copy</a></td>
-  <td>Temporarily highlights copied code</td>
-</tr>
-<tr>
-  <td><a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a></td>
-  <td>Launch a local dev server with live reload</td>
-</tr>
-<tr>
-  <td><a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense">npm Intellisense</a></td>
-  <td>Autocomplete npm modules in import statements</td>
-</tr>
-<tr>
-  <td><a href="https://marketplace.visualstudio.com/items?itemName=jonkwheeler.styled-components-snippets">styled-components Snippets</a></td>
-  <td>Snippets for styled-components syntax</td>
-</tr>
-<tr>
-  <td><a href="https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components">vscode-styled-components</a></td>
-  <td>Syntax highlighting and IntelliSense for styled-components</td>
-</tr>
+  <tr>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules">CSS Modules</a></td>
+    <td>Autocomplete for CSS module class names</td>
+  </tr>
+  <tr>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=phoenisx.cssvar">CSS Var Complete</a></td>
+    <td>Autocomplete for CSS custom properties</td>
+  </tr>
+  <tr>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=vunguyentuan.vscode-css-variables">CSS Variable Autocomplete</a></td>
+    <td>Suggests CSS variables as you type</td>
+  </tr>
+  <tr>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets">ES7+ React Snippets</a></td>
+    <td>Snippets for React, Redux, and more</td>
+  </tr>
+  <tr>
+   <td><a href="https://marketplace.visualstudio.com/items?itemName=mguellsegarra.highlight-on-copy">Highlight on Copy</a></td>
+   <td>Temporarily highlights copied code</td>
+  </tr>
+  <tr>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a></td>
+    <td>Launch a local dev server with live reload</td>
+  </tr>
+  <tr>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense">npm Intellisense</a></td>
+    <td>Autocomplete npm modules in import statements</td>
+  </tr>
+  <tr>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=jonkwheeler.styled-components-snippets">styled-components Snippets</a></td>
+    <td>Snippets for styled-components syntax</td>
+  </tr>
+  <tr>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components">vscode-styled-components</a></td>
+    <td>Syntax highlighting and IntelliSense for styled-components</td>
+  </tr>
   <tr>
     <td><a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense">Path Intellisense</a></td>
     <td>Autocompletion for file paths</td>
