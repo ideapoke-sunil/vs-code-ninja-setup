@@ -170,3 +170,11 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
 
 - `Option + Shift + F` / `Alt + Shift + F` → Format document
 - `Cmd + K M` / `Ctrl + K M` → Change language mode
+
+
+
+## 🔖 Useful Resources
+
+- [VS Code Docs](https://code.visualstudio.com/docs)
+- [Awesome VS Code (GitHub)](https://github.com/viatsko/awesome-vscode)
+- [VS Code Tips & Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
