@@ -16,9 +16,16 @@ Welcome to my personal VS Code reference guide. This is where I keep my favorite
 
 
 
-### 📁 File Icons
+### 📁 File Icon Theme
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+
+
+### 📁 Product Icon Theme
+- [Carbon Product Icons](https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon)
+- [Atom Material Icons](https://marketplace.visualstudio.com/items?itemName=AtomMaterial.a-file-icon-vscode)
+- [Developer's Theme](https://marketplace.visualstudio.com/items?itemName=Rajeshwaran.developer-theme-dark)
+
 
 ### 🪄 Font
 - [Fira Code](https://github.com/tonsky/FiraCode) (with ligatures enabled)
