@@ -286,6 +286,35 @@ cp settings.json ~/Library/Application\ Support/Code/User/settings.json
 echo "✅ VS Code Ninja setup complete!"
 ```
 
+Make it executable:
+
+```bash
+chmod +x setup.sh
+./setup.sh
+```
+
+**🪟 Windows — `setup.bat`**
+
+
+```bash
+@echo off
+
+REM Install extensions
+code --install-extension zhuangtongfa.Material-theme
+code --install-extension PKief.material-icon-theme
+code --install-extension esbenp.prettier-vscode
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
+code --install-extension formulahendry.auto-close-tag
+
+REM Copy settings
+copy settings.json "%APPDATA%\Code\User\settings.json"
+
+echo ✅ VS Code Ninja setup complete!
+pause
+```
+Double-click `setup.bat` to run.
+
 ## 🔖 Useful Resources
 
 - [VS Code Docs](https://code.visualstudio.com/docs)
