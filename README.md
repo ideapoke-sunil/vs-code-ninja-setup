@@ -172,6 +172,20 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
 - `Cmd + K M` / `Ctrl + K M` → Change language mode
 
 
+## 💡 Pro Tips & Ideas
+
+### 📁 Workspace Settings Tips
+
+ VS Code workspace settings, which are customizable preferences you can define in a JSON file to tailor how your editor behaves.
+
+
+#### 🔧 What Is It?
+
+This is a JSON snippet that represents your VS Code settings, specifically stored in a file called:
+
+`.vscode/settings.json`
+
+You can use it to override global settings **per project** or define **your global preferences**.
 
 ## 🔖 Useful Resources
 
