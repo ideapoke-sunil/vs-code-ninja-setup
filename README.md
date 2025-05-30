@@ -8,9 +8,12 @@ Welcome to my personal VS Code reference guide. This is where I keep my favorite
 
 ### 🖌️ Color Theme
 
+- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
+- [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
-- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
+- [Correia Github Gruvbox](https://marketplace.visualstudio.com/items?itemName=CorreiaGitHubGruvbox.correia-github-gruvbox)
+
 
 
 ### 📁 File Icons
