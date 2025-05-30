@@ -239,8 +239,9 @@ These settings live inside: `.vscode/settings.json`
 **🌍 Global (applies everywhere)**
 
   1. Open Command Palette:
+   
 
-    <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Mac)  or <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Windows)
+        <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Mac)  or <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Windows)
 
   2. Search: Preferences: Open Workspace Settings (JSON)
 
