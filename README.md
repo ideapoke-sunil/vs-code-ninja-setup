@@ -315,6 +315,45 @@ pause
 ```
 Double-click `setup.bat` to run.
 
+
+## ☁️ Sync Settings Across Devices (Pro Tip)
+
+VS Code comes with a built-in feature called **Settings Sync**, which allows you to:
+
+- Sync extensions
+- Sync themes & icons
+- Sync keyboard shortcuts
+- Sync custom snippets
+- Sync settings like font, format-on-save, and more
+
+### 🔐 How It Works
+
+Settings Sync uses your **GitHub or Microsoft account** to securely back up your entire VS Code setup to the cloud. Perfect for syncing work/home machines or migrating to a new device.
+
+### 🏁 How To Enable It
+
+1. Open Command Palette:
+   
+```
+Cmd + Shift + P (Mac) or Ctrl + Shift + P (Windows)
+```
+
+2. Search: Turn On Settings Sync
+
+3. Sign in using **GitHub** or **Microsoft**
+
+4. Choose what you want to sync:
+
+    - Settings
+    - Extensions
+    - Keybindings
+    - Snippets
+    - UI State
+
+That’s it — your VS Code config is now backed up and portable across devices!
+
+When you install VS Code on a new device, just sign in and **Settings Sync** will automatically apply your full setup — no need to manually reinstall themes or extensions.
+
 ## 🔖 Useful Resources
 
 - [VS Code Docs](https://code.visualstudio.com/docs)
