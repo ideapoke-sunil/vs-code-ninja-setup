@@ -29,7 +29,7 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
 - [Fira Code](https://github.com/tonsky/FiraCode) (with ligatures enabled)
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
-### 🧰 Recommended extensions
+## 🧰 Recommended extensions
 
 <table>
   <tr>
