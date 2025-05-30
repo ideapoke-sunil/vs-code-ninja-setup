@@ -151,11 +151,9 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
 ### 🧭 Navigation    
 
 - <kbd>Cmd</kbd> + <kbd>P</kbd> / <kbd>Ctrl</kbd> + <kbd>P</kbd> → Quick file search
-
-- `Cmd + P` / `Ctrl + P` → Quick file search
-- `Cmd + Shift + O` / `Ctrl + Shift + O` → Go to symbol in file
-- `Cmd + Shift + E` / `Ctrl + Shift + E` → Explorer
-- `Cmd + B` / `Ctrl + B` → Toggle sidebar
+- <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> / <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> → Go to symbol in file
+- <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd> / <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd> → Explorer
+- <kbd>Cmd</kbd> + <kbd>B</kbd> / <kbd>Ctrl</kbd> + <kbd>B</kbd> → Toggle sidebar
 
 ### 📝 Editing
 
