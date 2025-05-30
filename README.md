@@ -171,7 +171,7 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
 - `Option + Shift + F` / `Alt + Shift + F` → Format document
 - `Cmd + K M` / `Ctrl + K M` → Change language mode
 
-## 📁 Workspace Settings Tips
+## 🛠️ Workspace Settings Tips
 
 VS Code settings are stored in a JSON file that define how your editor behaves. You can save them:
 
@@ -246,7 +246,7 @@ Cmd + Shift + P (Mac) or Ctrl + Shift + P (Windows)
 
 3. Paste the config above and save.
 
-**📁 Project-Only (recommended)**
+**📦 Project-Only (recommended)**
 
 1. In your project root, create a folder: `.vscode/`
 
