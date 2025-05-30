@@ -163,14 +163,13 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
 
 ### 💻 Terminal
 
-- ``Ctrl + ` `` → Toggle terminal
+- `` Ctrl + `  `` → Toggle terminal
 - `Cmd + Shift + C` / `Ctrl + Shift + C` → Open terminal in editor
 
 ### 📐 Formatting
 
 - `Option + Shift + F` / `Alt + Shift + F` → Format document
 - `Cmd + K M` / `Ctrl + K M` → Change language mode
-
 
 ## 📁 Workspace Settings Tips
 
@@ -194,6 +193,19 @@ These settings live inside: `.vscode/settings.json`
   "workbench.iconTheme": "material-icon-theme"
 }
 ```
+
+### 🧠 What Each Setting Does
+
+<table>
+  <tr>
+    <th>Setting</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>`editor.formatOnSave`</td>
+    <td>Auto-formats your code on every save.</td>
+  </tr>
+</table>
 
 ## 🔖 Useful Resources
 
