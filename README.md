@@ -201,25 +201,33 @@ These settings live inside: `.vscode/settings.json`
     <th>Setting</th>
     <th>Description</th>
   </tr>
+  </tr>
+    <tr>
+    <td>editor.formatOnSave</td>
+    <td>Auto-formats your code on every save.</td>
+  </tr>
   <tr>
     <td>editor.tabSize</td>
-    <td>Auto-formats your code on every save.</td>
+    <td>Sets 2 spaces per tab — ideal for JS/React devs.</td>
   </tr>
     <tr>
-    <td>editor.formatOnSave</td>
-    <td>Auto-formats your code on every save.</td>
+    <td>files.autoSave</td>
+    <td>Auto-saves when you switch tabs or windows.</td>
+  <tr>
+    <td>terminal.integrated.fontFamily</td>
+    <td>Uses a custom terminal font (install **Fira Code** for this).</td>
   </tr>
-    <tr>
-    <td>editor.formatOnSave</td>
-    <td>Auto-formats your code on every save.</td>
+  <tr>
+    <td>editor.fontLigatures</td>
+    <td>Enables coding ligatures (e.g. `=>,` `===` become elegant symbols).</td>
   </tr>
-    <tr>
-    <td>editor.formatOnSave</td>
-    <td>Auto-formats your code on every save.</td>
+  <tr>
+    <td>workbench.colorTheme</td>
+    <td>Uses One Dark Pro (must be installed).</td>
   </tr>
-    <tr>
-    <td>editor.formatOnSave</td>
-    <td>Auto-formats your code on every save.</td>
+  <tr>
+    <td>workbench.iconTheme</td>
+    <td>Uses Material Icon Theme for your file explorer.</td>
   </tr>
 </table>
 
