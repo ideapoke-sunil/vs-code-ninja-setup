@@ -202,7 +202,23 @@ These settings live inside: `.vscode/settings.json`
     <th>Description</th>
   </tr>
   <tr>
-    <td>`editor.formatOnSave`</td>
+    <td>editor.tabSize</td>
+    <td>Auto-formats your code on every save.</td>
+  </tr>
+    <tr>
+    <td>editor.formatOnSave</td>
+    <td>Auto-formats your code on every save.</td>
+  </tr>
+    <tr>
+    <td>editor.formatOnSave</td>
+    <td>Auto-formats your code on every save.</td>
+  </tr>
+    <tr>
+    <td>editor.formatOnSave</td>
+    <td>Auto-formats your code on every save.</td>
+  </tr>
+    <tr>
+    <td>editor.formatOnSave</td>
     <td>Auto-formats your code on every save.</td>
   </tr>
 </table>
