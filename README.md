@@ -176,16 +176,14 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
 
 ### 📁 Workspace Settings Tips
 
- VS Code workspace settings, which are customizable preferences you can define in a JSON file to tailor how your editor behaves.
+VS Code settings are stored in a JSON file that define how your editor behaves. You can save them:
+
+- **Globally** (applies to all projects)
+- **Per workspace** (specific to a project or repo)
+
+These settings live inside: `.vscode/settings.json`
 
 
-#### 🔧 What Is It?
-
-This is a JSON snippet that represents your VS Code settings, specifically stored in a file called:
-
-`.vscode/settings.json`
-
-You can use it to override global settings **per project** or define **your global preferences**.
 
 ## 🔖 Useful Resources
 
