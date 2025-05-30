@@ -148,7 +148,9 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
 
 ## ⌨️ Shortcuts Cheat Sheet (Mac / Windows)
 
-### 🧭 Navigation
+### 🧭 Navigation    
+
+- <kbd>Cmd</kbd> + <kbd>P</kbd> / <kbd>Ctrl</kbd> + <kbd>P</kbd> → Quick file search
 
 - `Cmd + P` / `Ctrl + P` → Quick file search
 - `Cmd + Shift + O` / `Ctrl + Shift + O` → Go to symbol in file
