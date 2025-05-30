@@ -107,4 +107,28 @@ Welcome to my personal VS Code reference guide. This is where I keep my favorite
     <td><a href="https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost">Import Cost</a></td>
     <td>Displays size of imported packages inline</td>
   </tr>
+  <tr>
+  <td><a href="https://marketplace.visualstudio.com/items?itemName=Divlo.vscode-styled-jsx-languageserver">styled-jsx Language Server</a></td>
+  <td>Syntax highlighting and IntelliSense for styled-jsx</td>
+</tr>
+<tr>
+  <td><a href="https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log">Turbo Console Log</a></td>
+  <td>Auto-generates smart `console.log` statements</td>
+</tr>
+<tr>
+  <td><a href="https://marketplace.visualstudio.com/items?itemName=Codeium.codeium">Windsurf (Codeium)</a></td>
+  <td>AI-powered code autocompletion</td>
+</tr>
+<tr>
+  <td><a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker">Code Spell Checker</a></td>
+  <td>Spelling checker for code and comments</td>
+</tr>
+<tr>
+  <td><a href="https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare">Live Share</a></td>
+  <td>Collaborative real-time coding sessions</td>
+</tr>
+<tr>
+  <td><a href="https://marketplace.visualstudio.com/items?itemName=csstools.postcss">PostCSS Language Support</a></td>
+  <td>Support for PostCSS syntax and features</td>
+</tr>
 </table>
