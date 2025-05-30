@@ -163,7 +163,7 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
 
 ### Terminal
 
-- ``Ctrl + `` → Toggle terminal
+- ``Ctrl + ` `` → Toggle terminal
 - `Cmd + Shift + C` / `Ctrl + Shift + C` → Open terminal in editor
 
 ### Formatting
