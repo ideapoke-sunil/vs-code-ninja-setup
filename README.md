@@ -157,6 +157,7 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
 
 ### 📝 Editing
 
+- <kbd>Option</kbd> + <kbd>Shift</kbd> + <kbd>↓/↑</kbd> / <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>↓/↑</kbd> → Copy line down/up
 - `Option + Shift + ↓/↑` / `Alt + Shift + ↓/↑` → Copy line down/up
 - `Cmd + D` / `Ctrl + D` → Multi-cursor select next match
 - `Cmd + Shift + L` / `Ctrl + Shift + L` → Select all occurrences
