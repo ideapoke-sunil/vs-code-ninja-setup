@@ -158,12 +158,13 @@ keyboard shortcuts, and productivity ideas. Tailored for web development and dai
 ### 📝 Editing
 
 - <kbd>Option</kbd> + <kbd>Shift</kbd> + <kbd>↓/↑</kbd> / <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>↓/↑</kbd> → Copy line down/up
-- `Option + Shift + ↓/↑` / `Alt + Shift + ↓/↑` → Copy line down/up
-- `Cmd + D` / `Ctrl + D` → Multi-cursor select next match
-- `Cmd + Shift + L` / `Ctrl + Shift + L` → Select all occurrences
+- <kbd>Cmd</kbd> + <kbd>D</kbd> / <kbd>Ctrl</kbd> + <kbd>D</kbd> → Multi-cursor select next match
+- <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> / <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> → Select all occurrences
+
 
 ### 💻 Terminal
 
+- <kbd>Ctrl</kbd> + <kbd>`</kbd> → Toggle terminal
 - `` Ctrl + `  `` → Toggle terminal
 - `Cmd + Shift + C` / `Ctrl + Shift + C` → Open terminal in editor
 
