@@ -231,7 +231,6 @@ These settings live inside: `.vscode/settings.json`
   </tr>
 </table>
 
-
 ### ✅ How To Apply Settings
 
 **🌍 Global (applies everywhere)**
@@ -239,23 +238,53 @@ These settings live inside: `.vscode/settings.json`
 1. Open Command Palette:
 
 ```
-`Cmd + Shift + P` (Mac) or `Ctrl + Shift + P` (Windows)
+Cmd + Shift + P (Mac) or Ctrl + Shift + P (Windows)
 
 ```
 
-Search:
-Preferences: Open Settings (JSON)
+2. Search: Preferences: Open Workspace Settings (JSON)
 
-Paste the config above and save.
+3. Paste the config above and save.
 
-📁 Project-Only (recommended)
-In your project root, create a folder: .vscode/
+**📁 Project-Only (recommended)**
 
-Inside it, create or edit settings.json
+1. In your project root, create a folder: `.vscode/`
 
-Paste the same JSON block
+2. Inside it, create or edit `settings.json`
 
-Save — VS Code will auto-apply for that workspace only.
+3. Paste the same JSON block
+
+4. Save — VS Code will auto-apply for that workspace only.
+
+### ⚡ Auto Setup Script (Mac/Linux/Windows)
+
+Set up everything with one command. Create this structure:
+
+```bash
+vscode-ninja-setup/
+├── settings.json
+├── setup.sh      # for macOS/Linux
+└── setup.bat     # for Windows
+```
+
+**🐧 macOS/Linux — `setup.sh`**
+
+```bash
+#!/bin/bash
+
+# Extensions
+code --install-extension zhuangtongfa.Material-theme
+code --install-extension PKief.material-icon-theme
+code --install-extension esbenp.prettier-vscode
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
+code --install-extension formulahendry.auto-close-tag
+
+# Settings
+cp settings.json ~/Library/Application\ Support/Code/User/settings.json
+
+echo "✅ VS Code Ninja setup complete!"
+```
 
 ## 🔖 Useful Resources
 
